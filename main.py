@@ -1,8 +1,6 @@
-#print my name
-#a second statement printing my name
-#adding a different comment
-#add another comment
-#testing version control in pycharm
-define main(msg);
+#no longer need comments here
+define main(msg):
  print(msg)
+ define secondary():
+ print("new function")
 main("Nassir Amri")
