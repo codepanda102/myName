@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1408bf81-c22d-4b09-81bd-3925302ced68" name="Default Changelist" comment="" />
+    <list default="true" id="1408bf81-c22d-4b09-81bd-3925302ced68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -51,9 +53,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="180" />
-    <option name="y" value="112" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="464" />
+    <option name="y" value="170" />
     <option name="width" value="902" />
     <option name="height" value="553" />
   </component>
@@ -70,6 +72,43 @@
             <path>
               <item name="myName" type="b2602c69:ProjectViewProjectNode" />
               <item name="myName" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myName" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myName" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myName" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myName" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myName" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myName" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myName" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myName" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myName" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myName" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="lib64" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myName" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myName" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="lib64" type="462c0819:PsiDirectoryNode" />
+              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -106,8 +145,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="180" y="112" width="902" height="553" extended-state="0" />
-    <editor active="true" />
+    <frame x="464" y="170" width="902" height="553" extended-state="1" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24914676" />
@@ -131,8 +169,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
